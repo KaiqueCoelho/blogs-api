@@ -7,7 +7,7 @@ Projeto de uma API para um blog fictício utilizando MySQL como banco de dados e
 
 - Node.js
 - Express
-- Sequeliza
+- Sequelize
 - JWT
 - MySQL
 - Express Async Errors
